@@ -1,7 +1,7 @@
 # houseprices_regression
 Build a predictive model to predict sale price of houses and evaluate the already existing predictions in the dataset
 
-- Code written in Python on Jupyter Notebook
+- Code written in Python on Jupyter Notebook but .py file is uploaded here
 - Dataset is in csv format with following columns:
 ●	PropertyID: Unique ID for home 
 ●	TransDate: Date of current sale 
